@@ -2,6 +2,10 @@
 
 This project is an example of how to implement authentication in an Express.js application using bcrypt for password hashing and express-session for session management.
 
+
+![Image Description](1.png)
+![Image Description](2.png)
+
 ## Installation
 
 To run this project, you will need Node.js and npm installed on your machine.
